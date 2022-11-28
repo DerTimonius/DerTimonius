@@ -5,7 +5,7 @@ I'm a Full Stack Developer based in Kapfenberg, Austria.
 
 Here are some quick facts about me:
  
-- :mortar_board: I'm a graduate of the [UpLeveled](upleveled.io) Full Stack Web Development Bootcamp (soon).
+- :mortar_board: I'm a graduate of the [UpLeveled](https://upleveled.io) Full Stack Web Development Bootcamp (soon).
 - :computer: Always trying to learn new things, currently learning more about **Python/Data Science**.
 - :hospital: In my former job I was an anesthesiologist
 - :camera: My biggest passion outside programming is photography (gear acquisition syndrom is real, y'all!)
