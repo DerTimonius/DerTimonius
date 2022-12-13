@@ -29,5 +29,7 @@ Here are some quick facts about me:
 | Food  🍽️ | **Pasta!!** |
 
 ### Some stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dertimonius&show_icons=true&locale=en&layout=compact" alt="dertimonius" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dertimonius&show_icons=true&locale=en" alt="dertimonius" /></p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dertimonius&langs_count=5&theme=tokyonight)]()
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dertimonius&count_private=true&theme=tokyonight&showicons=true)]()
