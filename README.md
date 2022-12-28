@@ -5,14 +5,13 @@ I'm a Full Stack Developer based in Kapfenberg, Austria.
 
 Here are some quick facts about me:
  
-- :mortar_board: I'm a graduate of the [UpLeveled](https://upleveled.io) Full Stack Web Development Bootcamp (soon).
+- :mortar_board: I'm a graduate of the [UpLeveled](https://upleveled.io) Full Stack Web Development Bootcamp.
 - :computer: Always trying to learn new things, currently learning more about **Python/Data Science**.
-- :hospital: In my former job I was an anesthesiologist
+- 📋 Contributed to Open Source!
 - :camera: My biggest passion outside programming is photography (gear acquisition syndrom is real, y'all!)
 - 💬 Ask me about astrophysics. I know way too much about it for someone who didn't study it.
 - 🌄 Hiking is pretty awesome!
 - ⚡ Fun fact: I can point with the second toe of my right foot. Still have to figure out a use case though.
-- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/timonjurschitsch/)
 
 
 <h3 align="left">Languages and Tools:</h3>
