@@ -30,6 +30,6 @@ I'm a Full Stack Developer based in Kapfenberg, Austria.
 
 ### Some stats
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dertimonius&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dertimonius&langs_count=5&theme=tokyonight&hide=html,css&layout=donut&size_weight=0.5&count_weight=0.5)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dertimonius&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dertimonius&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&rank_icon=github)]()
