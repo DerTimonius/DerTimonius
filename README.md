@@ -1,12 +1,11 @@
-# Hi there, I'm Timon 👋
+# Hi there 👋
 
-Welcome to my GitHub Portfolio!
-I'm a Full Stack Developer based in Kapfenberg, Austria.
+I'm Timon, a Full Stack Developer based in Kapfenberg, Austria.
 
 ### Quick facts
  
 - :mortar_board: I'm a graduate of the [UpLeveled](https://upleveled.io) Full Stack Web Development Bootcamp.
-- :computer: Always trying to learn new things, currently learning more about **Python/Data Science**.
+- :computer: Always trying to learn new things, currently learning **Rust**. Follow my journey on [my learning blog](https://dertimonius.dev) 🙌
 - 📋 Contributed to Open Source!
 - :camera: My biggest passion outside programming is photography (gear acquisition syndrom is real, y'all!)
 - 💬 Ask me about astrophysics. I know way too much about it for someone who didn't study it.
@@ -16,7 +15,9 @@ I'm a Full Stack Developer based in Kapfenberg, Austria.
 
 ### Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,react,next,django,graphql,postgres,prisma,jest,materialui,css,tailwind,html,bash,nodejs,git,vercel,ps,vscode,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,react,next,astro,graphql,postgres,prisma,jest,vim,tailwind,bash,nodejs,git,docker,postman&perline=4)](https://skillicons.dev)
+
+And more!
 
 ### Couple of favourites
 
