@@ -25,7 +25,7 @@ I'm Timon, a Full Stack Developer based in Kapfenberg, Austria.
 [Tagging e2e tests to reduce wait time](https://dertimonius.dev/blog/til-23/) - 2024-03-12
 <!-- blog end -->
 
-Read more on [tduyng.dev](https://tduyng.dev)
+You can read more on [dertimonius.dev](https://dertimonius.dev)
 
 </td>
 </tr></table>
