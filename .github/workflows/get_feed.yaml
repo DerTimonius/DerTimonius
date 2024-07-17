@@ -30,8 +30,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "${{ vars.USER_MAIL }}"
-          git config --global user.name "${{ vars.USER_NAME }}"
+          git config --global user.email "timon.jurschitsch@gmail.com"
+          git config --global user.name "Timon Jurschitsch"
           git add -A
           git commit -m "chore: update blog posts" || exit 0
           git push
