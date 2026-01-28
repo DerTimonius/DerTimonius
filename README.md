@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Timon, a Full Stack Developer based in Kapfenberg, Austria.
+I'm Timon, Lead Developer @ [ava](https://ava.services), Backend Architect @ [realitiq](https://realtiq.com)
 
 ---
 
