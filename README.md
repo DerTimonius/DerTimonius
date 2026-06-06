@@ -4,12 +4,7 @@ I'm Timon, Lead Developer @ [ava](https://ava.services), Backend Architect @ [re
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="metrics.svg" alt="Metric" />
-</td>
-<td valign="top" width="50%">
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=DerTimonius&theme=catppuccin&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit)](https://github.com/DerTimonius)
 
 ## Latest blog posts
 
@@ -27,5 +22,3 @@ I'm Timon, Lead Developer @ [ava](https://ava.services), Backend Architect @ [re
 
 You can read more on [dertimonius.dev](https://dertimonius.dev)
 
-</td>
-</tr></table>
